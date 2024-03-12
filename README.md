@@ -12,3 +12,7 @@ URL: https://dummyjson.com/products
 const response = await fetch('https://dummyjson.com/products');
 const data = await response.json();
 ```
+
+### Swing notes
+
+https://gist.github.com/zocom-christoffer-wallenberg/a866322e0314129319010ba44bd0ce4f
